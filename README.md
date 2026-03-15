@@ -2,7 +2,7 @@
 
 လှပပြီး feature စုံတဲ့ e-commerce UI ပရိုဂျက်။ **Shadcn UI** နဲ့ **Puzzle Accounting API** ချိတ်ဆက်ထားပါတယ်။
 
-![Luna Shop Preview]('https://github.com/aungpaingsoedev/luna-shop/blob/main/public/luna-shop.png?raw=true')
+![Luna Shop Preview](https://github.com/aungpaingsoedev/luna-shop/blob/main/public/luna-shop.png?raw=true)
 
 ---
 
